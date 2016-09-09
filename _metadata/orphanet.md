@@ -8,8 +8,7 @@ date: '2016-08-25'
 issued: '2016-08-25'
 license: http://creativecommons.org/licenses/by-nd/3.0/
 rights: http://omim.org/help/agreement
-accessURL: http://www.orphadata.org/data/xml/
-en_product6.xml
+accessURL: http://www.orphadata.org/data/xml/en_product6.xml
 page: http://www.orpha.net
 taxa:
  - NCBITaxon:9606
